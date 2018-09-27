@@ -1,3 +1,5 @@
+# This repository is no longer maintained, check out https://github.com/Jineapple/WololoKingdoms
+
 # WololoKingdoms
 A program for converting AOE2HD expansions files (The Forgotten, African Kingdoms and Rise of the Rajas) to the original AOC engine format.
 
