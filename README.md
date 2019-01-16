@@ -1,4 +1,4 @@
-# This repository is no longer maintained, check out https://github.com/Jineapple/WololoKingdoms
+# This repository is no longer maintained, check out https://github.com/AoE2CommunityGitHub/WololoKingdoms
 
 # WololoKingdoms
 A program for converting AOE2HD expansions files (The Forgotten, African Kingdoms and Rise of the Rajas) to the original AOC engine format.
@@ -23,12 +23,12 @@ Unfortunately, there's no way to automatically check for that with the game. How
 a civilization the host does not have access to, it will instead turn into the "Random" option, which will select a civ from the host's available civ pool.
 
 ## How to use (with Voobly)
-[Download the latest release](https://github.com/Jineapple/WololoKingdoms/releases), extract the Zip, **make sure Steam is running** and launch the WololoKingdoms.exe inside (It should find your HD installation automatically, otherwise copy the entire WololoKingdoms folder into your Age2HD folder and try again).
+Download the latest release, extract the Zip, **make sure Steam is running** and launch the WololoKingdoms.exe inside (It should find your HD installation automatically, otherwise copy the entire WololoKingdoms folder into your Age2HD folder and try again).
 You can then use it as a mod in Voobly (To do that, click the "Settings" button next to "Launch", click the "Mod" checkbox, then select "WololoKingdoms". Make sure to select 1.5 as the patch. You can then launch as normal).  
 Voobly may throw [this error message](https://i.imgur.com/zCj3NcM.png) at you but it can safely be ignored.
 
 ## How to use (without Voobly)
-[Download the latest release](https://github.com/Jineapple/WololoKingdoms/releases), extract it, **make sure Steam is running** and launch as usual.
+Download the latest release, extract it, **make sure Steam is running** and launch as usual.
 Select the "Create an offline installation" checkbox and let the program run.
 You can launch the game using the "WK.exe" in the "age2_x1/" folder.
 Rarely there can be issues with creating the language_x1_p1.dll file. Usually when you get an error message regarding this, restarting the program and running it again is enough.
